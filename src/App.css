@@ -1,0 +1,95 @@
+.header{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-variant: small-caps;
+  background-color: aqua;
+  padding: 1.5rem;
+  background-image: url(./header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 30%;
+}
+.title{
+  margin-left: 55%;
+  font-size: 2.5rem;
+  color: rgb(247, 234, 244);
+}
+.navbar{
+  margin-top: .2rem;
+}
+.nav-link{
+  margin-left: 1rem;
+}
+.mr-auto{
+  margin-left: 3%;
+}
+.sign{
+  margin-right: 1rem;
+}
+.dropdown-menu.show{
+  background-color: #ccd1da;
+  text-align: center;
+  border: 1px solid #1b7ae8;
+  left: -10px;
+}
+.dropdown-menu{
+  min-width: 2rem !important;
+}
+.dropdown-item{
+  font-weight: 600 !important;
+}
+h3{
+  text-align: center;
+} 
+.container-fluid{
+  font: 'Times New Roman', Times, serif large;
+  background-color: beige;
+  height: 100vh;
+  /* background-image: url(./contact.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 70%;
+  padding-bottom: 10%; */
+}
+.display-4{
+  padding-top: 2rem;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: xx-large !important;
+}
+.Footer{
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+h5{
+  color: white !important;
+}
+.mauto{
+  margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  padding-bottom: 3rem;
+  clear: both !important;
+}
+ .table{
+  margin-top: 4rem;
+  color: white !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  text-align: center;
+}
+
+.details{
+  color: white;
+  margin-top: 2rem;
+}
+.phonebook{
+  background-image: url(./contact.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-width: 100%;
+  min-height: 100%;
+}

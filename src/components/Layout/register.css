@@ -1,0 +1,45 @@
+.register{
+    background-image: url('../../login.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+.card{
+    margin-bottom: 4rem;
+    margin-left: 55%;
+    margin-right: auto;
+    width: 500px;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    display: table-caption !important;
+    }
+.card-body{
+    margin-top: 2rem !important;
+}
+.card-title{
+    color: white;
+    margin-bottom: 2rem;
+}
+.text-center{
+    color: white;
+}

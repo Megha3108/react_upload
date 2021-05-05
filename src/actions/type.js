@@ -1,0 +1,12 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_USERS = "GET_USERS";
+export const GET_USER = "GET_USER";
+export const DELETE_USER = "DELETE_USER";
+export const DELETE_USER_BY_NUM = "DELETE_USER_BY_NUM";
+export const SEARCH_USER_BY_NUM = "SEARCH_USER_BY_NUM";
+export const GET_TICKETS = "GET_TICKETS";
+export const SEARCH_TICKETS = "SEARCH_TICKETS";
+export const GET_CONTACTS="GET_CONTACTS";
+export const GET_CONTACT ="GET_CONTACT";
+export const DELETE_CONTACT="DELETE_CONTACT";
+export const DELETE_TICKET = "DELETE_TICKET";
